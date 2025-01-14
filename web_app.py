@@ -9,7 +9,7 @@ import ast
 import os
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+#import plotly.express as px
 from registr_scraping import vytvor_adresar
 
 
@@ -40,7 +40,7 @@ if __name__ == "__main__":
     st.title("Pomocník pro obchodní zástupce")
 
     st.write("Toto je nástroj, který čerpá data z registru smluv a usnadňuje tvou práci.")
-
+    """
     # Podnadpis
     st.subheader("Chcete se kouknout, jak se dařilo ostatním firmám v průběhu let?")
     option = st.selectbox(
@@ -113,6 +113,7 @@ if __name__ == "__main__":
 
         st.write("Celkový objem uzavřených smluv ve filtrovaném období včetně \
                  DPH je: " + celk_castka)
+    """
     st.write(" ")
     st.write(" ")
     st.write(" ")
