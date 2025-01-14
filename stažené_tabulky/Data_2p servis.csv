@@ -1,0 +1,362 @@
+Unnamed: 0,Odběratel,ID,IČO,Datum uzavření smlouvy,Cena_bez_dph,Cena_s_dph,Předmět smlouvy,zboží
+0,DOMOV NA STŘÍBRNÉM VRCHU,10568780,70188653,02.01.2015,,,Dodávka ochranných pomůcek pro zaměstnance (Rámcová kupní smlouva z roku 2015),"[{'název': 'halena UNIMA', 'množství': 1, 'cena bez DPH': 529.98, 'cena s DPH': None}, {'název': 'halena UNIMA 1', 'množství': 1, 'cena bez DPH': 602.58, 'cena s DPH': None}, {'název': 'halena JULIA - B', 'množství': 1, 'cena bez DPH': 574.75, 'cena s DPH': None}, {'název': 'halena PARIS', 'množství': 1, 'cena bez DPH': 571.12, 'cena s DPH': None}, {'název': 'halena NUGET', 'množství': 1, 'cena bez DPH': 908.71, 'cena s DPH': None}, {'název': 'kalhoty ELASTICKÉ', 'množství': 1, 'cena bez DPH': 433.18, 'cena s DPH': None}, {'název': 'kalhoty HAITI', 'množství': 1, 'cena bez DPH': 353.32, 'cena s DPH': None}, {'název': 'kalhoty HAITI tmavě modrá', 'množství': 1, 'cena bez DPH': 556.0, 'cena s DPH': None}, {'název': 'kalhoty unisex UNI tmavě modrá', 'množství': 1, 'cena bez DPH': 683.0, 'cena s DPH': None}, {'název': 'kalhoty unisex UNI tmavě modrá', 'množství': 1, 'cena bez DPH': 772.0, 'cena s DPH': None}, {'název': 'kalhoty unisex UNI tmavě modrá', 'množství': 1, 'cena bez DPH': 887.0, 'cena s DPH': None}, {'název': 'kalhoty unisex UNI tmavě modrá', 'množství': 1, 'cena bez DPH': 1004.0, 'cena s DPH': None}, {'název': 'kalhoty dámské BRAZIL DLOUHÉ bílá', 'množství': 1, 'cena bez DPH': 664.7, 'cena s DPH': None}, {'název': 'kalhoty dámské BRAZIL DLOUHÉ bílá', 'množství': 1, 'cena bez DPH': 722.5, 'cena s DPH': None}, {'název': 'sukně dámská MILI bílá', 'množství': 1, 'cena bez DPH': 413.0, 'cena s DPH': None}, {'název': 'tričko dámské VITO FLORA světle modrá', 'množství': 1, 'cena bez DPH': 409.0, 'cena s DPH': None}, {'název': 'tričko dámské VITO FLORA světle růžová', 'množství': 1, 'cena bez DPH': 409.0, 'cena s DPH': None}, {'název': 'tričko dámské VITO FLORA mentol', 'množství': 1, 'cena bez DPH': 409.0, 'cena s DPH': None}, {'název': 'tričko dámské VITO FLORA světle modrá', 'množství': 1, 'cena bez DPH': 470.0, 'cena s DPH': None}, {'název': 'tričko dámské VITO FLORA světle růžová', 'množství': 1, 'cena bez DPH': 470.0, 'cena s DPH': None}, {'název': 'tričko dámské VITO FLORA mentol', 'množství': 1, 'cena bez DPH': 470.0, 'cena s DPH': None}, {'název': 'tričko dámské VITO FLORA světle modrá', 'množství': 1, 'cena bez DPH': 511.0, 'cena s DPH': None}, {'název': 'tričko dámské VITO FLORA světle růžová', 'množství': 1, 'cena bez DPH': 511.0, 'cena s DPH': None}, {'název': 'tričko dámské VITO FLORA mentol', 'množství': 1, 'cena bez DPH': 511.0, 'cena s DPH': None}, {'název': 'tričko dámské VITO FLORA mentol', 'množství': 1, 'cena bez DPH': 551.0, 'cena s DPH': None}]"
+1,"Domov Na Výsluní, Hořovice",29396552,70539456,12.12.2024,,"18 687,00 CZK",2Pservis pracovní oděvy,"[{'název': 'SPolštář prošívaný 70x90 cm', 'množství': 20, 'cena bez DPH': None, 'cena s DPH': '8,591.00 Kč'}, {'název': 'Halena Julia-B květy 100% bavlna Velikost: L', 'množství': None, 'cena bez DPH': None, 'cena s DPH': '2,413.95 Kč'}, {'název': 'Halena Julia-B květy 100% bavlna Velikost: XL', 'množství': None, 'cena bez DPH': None, 'cena s DPH': '3,218.60 Kč'}, {'název': 'Leginy dámské 7/8 Lindos směs 92/8 Velikost: L', 'množství': None, 'cena bez DPH': None, 'cena s DPH': '1,415.70 Kč'}, {'název': 'Leginy dámské 7/8 Lindos směs 92/8 Velikost: XXL', 'množství': 2, 'cena bez DPH': None, 'cena s DPH': '990.99 Kč'}, {'název': 'Šaty dámské Prima Basic 100% bavlna Velikost: L', 'množství': None, 'cena bez DPH': None, 'cena s DPH': '1,796.85 Kč'}]"
+2,"Zařízení následné rehabilitační a hospicové péče, příspěvková organizace",29361668,69979821,11.12.2024,"98 709,50 CZK","119 439,00 CZK",Pracovní oblečení pro zdravotníky,"[{'název': 'Pracovní oblečení pro zdravotníky', 'množství': 1, 'cena bez DPH': 98709.5, 'cena s DPH': 119439.0}]"
+3,"Dům sociální péče Kralovice, příspěvková organizace",29237280,49748190,28.11.2024,,"47 910,00 CZK",nákup ochranných oděvů pro zaměstnance,0
+4,"Dům sociální péče Kralovice, příspěvková organizace",29237408,49748190,02.12.2024,,"29 979,00 CZK",nákup ochranných oděvů pro zaměstnance,0
+5,Městská správa sociálních služeb Kadaň,29213264,65642481,29.11.2024,"99 271,37 CZK","120 118,34 CZK",Nákup pracovních oděvů,0
+6,"Domov pro seniory Hustopeče, příspěvková organizace",29209936,14120097,26.11.2024,"127 204,54 CZK","153 917,50 CZK",Objednávka - pracovní oděvy,0
+7,"Střední zdravotnická škola Brno, Jaselská, příspěvková organizace",29111520,637998,21.11.2024,"57 499,86 CZK","69 574,86 CZK",Objednávka zdravotnických uniforem,0
+8,"Domov důchodců Jindřichovice pod Smrkem, příspěvková organizace",29016580,71220046,05.11.2024,"79 300,00 CZK","95 953,00 CZK",Objednávka - pracovní oděvy - tuniky,0
+9,"Domov seniorů Vratislavice, příspěvková organizace",28954904,10898174,08.11.2024,,"198 040,42 CZK",Objednávka pracovních oděvů,0
+10,Masarykova univerzita,28686452,216224,22.10.2024,"51 050,00 CZK","61 770,50 CZK",Objednávka č. 1198/0278/24 Oděvy pro zdravotníky,0
+11,"Domov Vesna, příspěvková organizace",28679268,75154391,30.09.2024,,"62 211,00 CZK",Objednávka - pracovní oblečení pro zdravotní úsek,0
+12,"Vyšší odborná škola, Obchodní akademie, Střední zdravotnická škola a Jazyková škola s právem státní jazykové zkoušky, Klatovy, Plánická 196",28626620,61781771,20.09.2024,"83 594,50 CZK","101 149,00 CZK",oděv pro žáky školy,0
+13,"Domov pro seniory v Hranicích, příspěvková organizace",28575860,71175202,14.10.2024,"58 003,50 CZK","70 184,24 CZK",KS Osobní ochranné pracovní prostředky,0
+14,Zdravotnická zařízení Ministerstva spravedlnosti,28556808,19738269,11.10.2024,,"60 000,00 CZK",Objednávka - zdravotnická obuv - NsP Brno,0
+15,Národní ústav duševního zdraví,28543396,23752,10.10.2024,,"400 000,00 CZK",Objednávka zdravotnického oblečení,0
+16,Úřad práce ČR - krajská pobočka v Plzni - kontaktní pracoviště Plzeň-město (Úřad práce České republiky),28368848,72496991,26.09.2024,"128 666,40 CZK","128 666,40 CZK",Dohoda o zabezpečení vzdělávací aktivity a poskytnutí příspěvku v rámci projektu NPO - DIGI pro firmu,0
+17,"Domov pro seniory Burešov, příspěvková organizace",28078852,70851042,03.09.2024,"75 009,26 CZK","90 761,20 CZK","ložní povlečení, ručníky",0
+18,"Dětské centrum Chocerady – centrum komplexní péče, příspěvková organizace",28116260,43750672,06.08.2024,,"59 665,00 CZK",Dámská trika - tunika LOLA + dámské šaty PRIMA + doprava,0
+19,Senior-dům Soběslav,28065120,70920567,02.09.2024,,,"pracovní děv,obuv",0
+20,"Dům seniorů Kdyně, příspěvková organizace",28027764,75007746,27.08.2024,,"71 995,00 CZK",Pracovní oblečení,0
+21,Psychiatrická nemocnice Horní Beřkovice,27916796,673552,19.08.2024,"396 742,00 CZK",,"Kupní smlouva ""Zdravotnické oděvy“, číslo N00624V00016917",0
+22,"Domov u lesa Tavíkovice, příspěvková organizace",27921812,45671818,13.08.2024,,"140 000,00 CZK",OOPP pro zaměstnance organizace,0
+23,Domov pro seniory Dobrá Voda,27679968,666262,23.07.2024,,"70 141,00 CZK",Objednávka 604/2024 - pracovní oblečení,0
+24,Úřad práce ČR - krajská pobočka v Plzni - kontaktní pracoviště Klatovy (Úřad práce České republiky),27653584,72496991,22.07.2024,"78 848,00 CZK","78 848,00 CZK",Dohoda č. KTA-PCN-3/2024,0
+25,Domov pro seniory Chodov,27644640,70876606,18.07.2024,,"120 697,50 CZK",pracovní oblečení,0
+26,Fakultní Thomayerova nemocnice,27630564,64190,19.07.2024,"354 677,75 CZK",,Kupní smlouva na dodávku zboží - Dámské haleny s potiskem,0
+27,Domov bez bariér,27073600,13583212,04.06.2024,"100 000,00 CZK",,Rámcová kupní smlouva na nákup zboží,0
+28,"Centrum sociální pomoci Litoměřice, příspěvková organizace",26879290,80195,17.05.2024,"179 455,00 CZK","217 140,55 CZK",Nákup profesních oděvů pro DSP Skalice,0
+29,Střední odborná škola Jarov,26880654,300268,20.05.2024,"63 801,65 CZK","77 200,00 CZK",OBJ FD J - 80 ks přikrývka + 30 ks deka,0
+30,"Střední zdravotnická škola a Vyšší odborná škola zdravotnická, Kladno, Havířská 1141",26866730,66729,22.04.2024,,"71 934,50 CZK",objednávka pracovních uniforem,0
+31,"Domov pro seniory Dobětice, příspěvková organizace",26649435,44555407,29.04.2024,"226 730,00 CZK","287 000,00 CZK",Objednávka - OOPP pro úsek přímé péče a zdravotní úsek,0
+32,"Domov pro osoby se zdravotním postižením ""PRAMEN"" v Mnichově, příspěvková organizace",26435259,71175326,08.04.2024,,"80 005,62 CZK",dodávka OOPP,0
+33,"Domov pro seniory Černá Hora, příspěvková organizace",26076119,380458,07.03.2024,"150 415,00 CZK",,Pracovní haleny,0
+34,Zdravotnické zařízení městské části Praha 4,25839259,44846291,05.02.2024,"150 000,00 CZK","181 500,00 CZK",Rámcová kupní smlouva-pracovní oděvy 2024,0
+35,Centrum sociálních služeb Jeseník,25723467,852163,01.02.2024,,"90 000,00 CZK",Celoroční odběr zboží dle vlastního výběru.,0
+36,"Zdravotně sociální služby Turnov, příspěvková organizace",25657295,854883,30.01.2024,,,Rámcová smlouva,0
+37,Centrum komunitních služeb Pro život,25628399,70875430,29.01.2024,,"3 500,00 CZK",Pracovní oděvy,0
+38,"Domov pro seniory a dům s pečovatelskou službou Mariánské Lázně, příspěvková organizace",25586003,575143,23.01.2024,,,Rámcová kupní smlouva,0
+39,"Domovy sociálních služeb Kadaň a Mašťov, příspěvková organizace",25332471,46789910,03.01.2024,,"605 000,00 CZK","Nákup ochranných oděvů, obuvi a pomůcek pro DOZP Kadaň a DpS a DOZP Mašťov",0
+40,Centrum sociálních služeb Praha,25265995,70878277,20.12.2023,"143 681,00 CZK","173 854,00 CZK",Objednávka č. 900621 na nákup lůžkovin,0
+41,"Domov Na Výsluní, Hořovice",25241355,70539456,15.12.2023,,"56 500,00 CZK",2P servis oblečení,0
+42,Městská správa sociálních služeb Kadaň,25019619,65642481,05.12.2023,"129 848,00 CZK",,Nákup pracovních oděvů,0
+43,"Domov pro seniory Foltýnova, příspěvková organizace",25012023,70887055,27.11.2023,,,Rámcová kupní smlouva,0
+44,Centrum komunitních služeb Pro život,24860459,70875430,24.11.2023,,"80 000,00 CZK",Objednávka pracovních oděvů,0
+45,"Podkrušnohorské domovy sociálních služeb Dubí - Teplice, příspěvková organizace",24842651,63787849,22.11.2023,"172 262,00 CZK","208 437,02 CZK",Objednávka - ložní prádlo,0
+46,"Domov seniorů Nové Strašecí, poskytovatel sociálních služeb",24849387,71209921,21.11.2023,"32 438,00 CZK","39 250,00 CZK",Objednávka pracovních oděvů domov seniorů,0
+47,Psychiatrická nemocnice Marianny Oranžské,24770759,851388,15.11.2023,,"101 094,29 CZK",Ložní soupravy,0
+48,"Domov pro seniory Foltýnova, příspěvková organizace",24771691,70887055,03.04.2023,"82 410,74 CZK","99 717,00 CZK",Objednávka na pracovní oděvy,0
+49,"Domov pro seniory Foltýnova, příspěvková organizace",24771907,70887055,18.07.2023,"88 027,45 CZK","106 513,00 CZK",Objednávka na pracovní oděvy,0
+50,Zdravotnické zařízení městské části Praha 4,24636215,44846291,31.10.2023,,,Dodatek k rámcové kupní smlouvě pracovní oděvy 2023,0
+51,Domov pro seniory Chodov,24612599,70876606,30.10.2023,,"123 955,70 CZK",pracovní oblečení,0
+52,Domov se zvláštním režimem Terezín,24447311,70875308,10.10.2023,"62 804,50 CZK","75 993,45 CZK","Objednávka(smlouva); pracovní oblečení pro zaměstnance - mikiny Forest, Arktik",0
+53,"Domov pro seniory v Hranicích, příspěvková organizace",24377119,71175202,16.10.2023,"53 053,65 CZK","64 194,94 CZK",Osobní ochranné pracovní prostředky,0
+54,"Centrum sociální pomoci Třinec, příspěvková organizace",24257331,75055473,04.10.2023,,"57 000,00 CZK",Objednávka ochranných pracovních prostředků,0
+55,"Oblastní nemocnice Příbram, a.s.",24159467,27085031,25.09.2023,"59 000,00 CZK",,Dodavatelská objednávka č. DO475523 pro středisko 49000 - Amb. provozy centrál. příjmu,0
+56,Dům sociálních služeb sv. Kateřiny v Bolaticích,24109203,17518075,14.07.2023,"14 992,00 CZK",,Objednávka ochranných oděvů,0
+57,Dům sociálních služeb sv. Kateřiny v Bolaticích,24109163,17518075,25.04.2023,,"19 460,00 CZK",Objednávka ochranných oděvů,0
+58,Dům sociálních služeb sv. Kateřiny v Bolaticích,24109227,17518075,07.09.2023,"18 042,00 CZK",,Objednávka ochranných oděvů,0
+59,Dům sociálních služeb sv. Kateřiny v Bolaticích,24109263,17518075,13.09.2023,"2 402,00 CZK",,Objednávka ochranných oděvů,0
+60,"Domov Barbora Kutná Hora, poskytovatel sociálních služeb",24044459,48677752,13.09.2023,"150 000,00 CZK","181 500,00 CZK",Dodávky pracovního oblečení pro zaměstnance,0
+61,"Domov pro osoby se zdravotním postižením ""PRAMEN"" v Mnichově, příspěvková organizace",23583491,71175326,27.07.2023,,"95 926,46 CZK",Kupní smlouva - dodávka OOPP,0
+62,Senior-dům Soběslav,23806487,70920567,22.08.2023,,"201 289,01 CZK","pracovní oděv, obuv",0
+63,Domov pro seniory Heřmanův Městec,23612971,70876258,26.07.2023,,"61 629,18 CZK",objednávka pracovní oděvy,0
+64,"Domov Bílá Opava, příspěvková organizace",23586435,16772,27.07.2023,"132 129,70 CZK",,Pořízení OOPP,0
+65,"Domov pro seniory a dům s pečovatelskou službou Mariánské Lázně, příspěvková organizace",14903327,575143,24.02.2021,"200 000,00 CZK",,Rámcová kupní smlouva k rezervaci náhradního plnění,0
+66,"Domov pro seniory a dům s pečovatelskou službou Mariánské Lázně, příspěvková organizace",12156652,575143,10.06.2020,"200 000,00 CZK",,Rámcová kupní smlouva - dovávka pracovních oděvů a obuvi,0
+67,"Krajská zdravotní, a.s.",23428219,25488627,12.07.2023,"10 200,00 CZK","12 342,00 CZK",Objednávka léků a ZM,0
+68,"Domov pro seniory Javorník, příspěvková organizace",23236475,75004101,12.06.2023,"120 000,00 CZK","145 200,00 CZK",Nákupy a odběry zboží,0
+69,Fakultní Thomayerova nemocnice,23181499,64190,16.06.2023,"347 715,80 CZK",,smlouva na dodávky zboží - dámské haleny s potiskem,0
+70,Domov pro seniory Zahradní Město,22889203,70878030,22.05.2023,"15 677,00 CZK","18 970,00 CZK",Objednávka - igelitové zástěry,0
+71,"Domov Velké Březno, příspěvková organizace",22714917,44555288,05.05.2023,"297 660,20 CZK","359 607,72 CZK",Kupní - Objednávka pracovních oděvů,0
+72,Dům sociálních služeb sv. Kateřiny v Bolaticích,22240945,17518075,10.03.2023,"43 065,00 CZK",,Objednávka ochranných oděvů,0
+73,Dům sociálních služeb sv. Kateřiny v Bolaticích,22240981,17518075,22.03.2023,"31 390,00 CZK",,Objednávka ochranných oděvů,0
+74,"Krajská zdravotní, a.s.",22187381,25488627,20.03.2023,"130 094,00 CZK","157 408,00 CZK",4SZM415524-2P SERVIS s.r.o.,0
+75,Sociální služby města Hořice,22176185,70889961,28.02.2023,"61 176,70 CZK",,Smlouva o vypořádání závazků k objednávce ze dne 18.3.2020 - dodávka pracovních oděvů,0
+76,"Domov pro seniory Mitrov, příspěvková organizace",21769565,71184449,20.01.2023,,"1,00 CZK",Dodatek - zrušení Rámcové smlouvy.,0
+77,Ústav hematologie a krevní transfuze Praha,21622777,23736,25.01.2023,"64 759,05 CZK","78 358,45 CZK",Objednávka SZM,0
+78,Zdravotnické zařízení městské části Praha 4,21526317,44846291,11.01.2023,"100 000,00 CZK",,Rámcová kupní smlouva-pracovní oděvy 2023,0
+79,Centrum sociálních služeb Jeseník,21516113,852163,02.01.2023,"90 000,00 CZK",,Celoroční odběr zboží dle vlastního výběru.,0
+80,Domov pro seniory Zahradní Město,21212157,70878030,15.12.2022,"1 464,00 CZK","1 905,00 CZK",Objednávka - pracovní oděv,0
+81,Domov Libníč a Centrum sociálních služeb Empatie,21168753,666271,13.12.2022,"66 529,00 CZK",,Objednávka - OOPP pro zaměstnance Domova Libníč a CSSE,0
+82,"Sociální služby Libina, příspěvková organizace",20986021,75003988,09.11.2022,,"86 022,00 CZK","Ochranné pracovní oděvy pro zaměstnance:kalhoty 38 ks, haleny 19 ks, šaty 29 ks, trička 30 ks, mikiny 10 ks, legíny 38 ks, holínky 25 ks, brýle ochranné 20 ks, zástěra PVC bílá 10 ks, plášť lékařský 2500 - 1 ks, zástěra Mušketý",0
+83,Městská správa sociálních služeb Kadaň,20964225,65642481,24.11.2022,"58 208,78 CZK","73 682,00 CZK",Nákup pracovních oděvů,0
+84,"Sociální služby pro seniory Šumperk, příspěvková organizace",20959805,75004011,24.11.2022,"108 200,00 CZK","130 922,00 CZK","Ložní povlečení 275 ks, povlaky na polštáře 5 ks pro uživatele služeb.",0
+85,"Domov pro seniory Černá Hora, příspěvková organizace",20926349,380458,31.10.2022,"69 657,00 CZK","84 285,00 CZK",Dodávky zboží,0
+86,"Domov pro seniory Černá Hora, příspěvková organizace",20928041,380458,31.10.2022,"69 657,00 CZK",,"Objednávka 54/2022, zdravotní haleny",0
+87,"Domov seniorů Vratislavice, příspěvková organizace",20907621,10898174,22.11.2022,,"69 937,00 CZK",Objednávka pracovních kalhot,0
+88,Městský ústav sociálních služeb Strakonice,20910617,70828334,22.11.2022,,"88 730,00 CZK",Objednávka č. 3/74/2022 zdravotní ochranné pracovní oblečení,0
+89,"Centrum sociálních služeb Znojmo, příspěvková organizace",20838061,45671770,15.11.2022,,"58 346,20 CZK",froté bryndák pro dospělé,0
+90,Domov pro seniory Ďáblice,20734693,70875839,26.10.2022,"166 459,50 CZK","201 416,00 CZK",Pracovní oděvy,0
+91,Domov U Biřičky,20703901,579033,04.11.2022,"49 500,00 CZK",,Nákup pracovní obuvi,0
+92,"Domov Svatý Jan , poskytovatel sociálních služeb",20630257,42727235,12.10.2022,"67 194,00 CZK","81 304,74 CZK",Objednávka pracovních oděvů,0
+93,"Podkrušnohorské domovy sociálních služeb Dubí - Teplice, příspěvková organizace",20596841,63787849,25.10.2022,,"335 763,50 CZK",Objednávka - ložní prádlo a sady přikrývek,0
+94,"Domov F. A. Skuherského, z. ú.",20599209,9618724,17.10.2022,,"128 497,00 CZK",Objednávka pracovních oděvů,0
+95,Domov pro seniory Chodov,20582897,70876606,24.10.2022,,"92 894,00 CZK",objednávka - pracovní oblečení,0
+96,"Centrum sociální pomoci Třinec, příspěvková organizace",20464221,75055473,12.10.2022,,"76 446,00 CZK",Objednávka ochranných pracovních prostředků 2022,0
+97,Senior-dům Soběslav,20355213,70920567,30.09.2022,"97 295,00 CZK","117 727,00 CZK","pracovní odev, obuv",0
+98,Fakultní nemocnice Plzeň,20323725,669806,22.09.2022,,,Darovací smlouva: Hmotný dar - jednorázové chirurgické ústenky v hodnotě 512 000 Kč.,0
+99,"Domovy sociálních služeb Kadaň a Mašťov, příspěvková organizace",20284945,46789910,15.09.2022,,"363 000,00 CZK","""Dodávka zdravotnických a ošetřovatelských oděvů, osobních ochranných pomůcek""",0
+100,"Domov seniorů Vratislavice, příspěvková organizace",20218037,10898174,20.09.2022,,"144 390,26 CZK",Objednávka pracovních oděvů,0
+101,Domov pro seniory Chýnov,20270245,75011204,26.09.2022,,,Dohoda o ukončení kupní smlouvy - pracovní oděvy,0
+102,"Domov Štíty - Jedlí, příspěvková organizace",19940535,75004003,22.08.2022,"350 000,00 CZK",,Nákup osobních ochranných pracovních pomůcek.,0
+103,"Domov Štíty - Jedlí, příspěvková organizace",19940531,75004003,22.08.2022,"350 000,00 CZK",,Nákup osobních ochranných pracovních pomůcek.,0
+104,Ústav hematologie a krevní transfuze Praha,19682011,23736,27.07.2022,"210 444,00 CZK","254 637,24 CZK",Objednávka SZM,0
+105,"Dětský domov a Školní jídelna, Frýdek-Místek, příspěvková organizace",19636859,68334222,19.07.2022,"80 771,00 CZK","97 732,91 CZK",Objednávka - nákup matrací a chráničů matrací,0
+106,"Domov Barbora Kutná Hora, poskytovatel sociálních služeb",19602451,48677752,18.07.2022,"69 400,00 CZK","83 974,00 CZK",Pytle na prádlo,0
+107,CENTRUM SOCIÁLNÍCH A ZDRAVOTNÍCH SLUŽEB MĚSTA PŘÍBRAM,19591387,47067071,24.06.2022,,"105 169,00 CZK",Objednávka oděvů,0
+108,Ústav hematologie a krevní transfuze Praha,19512787,23736,08.07.2022,"55 988,00 CZK","67 745,48 CZK",Objednávka SZM,0
+109,"Domov F. A. Skuherského, z. ú.",19474871,9618724,30.06.2022,,"83 543,00 CZK",Objednávka -pracovní haleny,0
+110,Domov pro seniory Zahradní Město,19249011,70878030,19.05.2022,"25 428,00 CZK","30 900,00 CZK",Objednávka - pracovní obuv,0
+111,G - centrum Tábor,19188583,67189393,01.06.2022,,,Rámcová kupní smlouva 2022,0
+112,Ústav hematologie a krevní transfuze Praha,19171203,23736,06.06.2022,"84 010,10 CZK","101 652,22 CZK",Objednávka SZM,0
+113,"Domov F. A. Skuherského, z. ú.",19177695,9618724,18.05.2022,,"65 760,00 CZK",Objednávka pracovních dámských kalhot,0
+114,"Střední zdravotnická škola a Vyšší odborná škola zdravotnická, Kladno, Havířská 1141",18922607,66729,09.05.2022,"155 755,00 CZK",,Smlouva kupní,0
+115,"Domov pro seniory ""SKALKA"" v Chebu, příspěvková organizace",18828751,71175245,04.05.2022,,"55 408,00 CZK",Objednávka na pracovní oděvy,0
+116,Domov pro seniory Krč,18747219,70874212,21.04.2022,,"86 258,00 CZK",Dodávka ložního prádla,0
+117,"Domov Barbora Kutná Hora, poskytovatel sociálních služeb",18438379,48677752,29.03.2022,"81 180,00 CZK","98 227,80 CZK",Nákup povlečení Atlas Grádl - 120 kusů,0
+118,"Střední zdravotnická škola a Vyšší odborná škola zdravotnická, Kladno, Havířská 1141",18328259,66729,14.03.2022,,"69 031,00 CZK",Smlouva o vypořádání závazků - objednávka zdravotnických uniforem,0
+119,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",18113507,346292,23.02.2022,"72 580,00 CZK","87 821,80 CZK",Objednávka k Rámcová kupní smlouva (jednorázové lůžkoviny),0
+120,"Dům sociální péče Kralovice, příspěvková organizace",17985895,49748190,08.02.2022,,"80 672,00 CZK",Dohoda o vypořádání bezdůvodného obohacení a o započtení závazků nákup ochranných pracovních oděvů,0
+121,"Dům sociální péče Kralovice, příspěvková organizace",17968207,49748190,08.02.2022,,"106 299,00 CZK",Dohoda o vypořádání bezdůvodného obohacení - nákup ochranných pracovních oděvů,0
+122,Centrum sociálních služeb Jeseník,17907647,852163,03.01.2022,"60 000,00 CZK",,Celoroční odběr zboží dle vlastního výběru,0
+123,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",17917367,346292,02.02.2022,"198 780,00 CZK","240 523,80 CZK",Objednávka k Rámcová kupní smlouva (jednorázové lůžkoviny),0
+124,Zdravotnické zařízení městské části Praha 4,17827387,44846291,17.01.2022,"100 000,00 CZK","121 000,00 CZK",Rámcová kupní smlouva-pracovní oděvy 2022,0
+125,Ústav hematologie a krevní transfuze Praha,17703195,23736,12.01.2022,"55 522,90 CZK","67 182,71 CZK",Objednávka SZM,0
+126,Domov U Biřičky,17676659,579033,10.01.2022,"70 350,00 CZK",,Nákup pracovní obuvi,0
+127,Sociální služby Města Milevska,17633623,75000750,28.12.2021,"84 840,00 CZK","102 656,00 CZK",kupní smlouva,0
+128,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",17614179,346292,05.01.2022,"96 260,00 CZK","116 474,60 CZK",Objednávka k Rámcová kupní smlouva (jednorázové lůžkoviny),0
+129,Městský ústav sociálních služeb Strakonice,17592751,70828334,08.12.2021,"62 326,00 CZK","75 414,00 CZK","pracovní oblečení, ložní soupravy",0
+130,"Dům seniorů Kdyně, příspěvková organizace",17524115,75007746,13.12.2021,,"53 206,00 CZK","Pracovní oblečení, obuv",0
+131,Centrum sociálních služeb Praha,17495959,70878277,22.11.2021,"87 800,00 CZK","106 238,00 CZK",Objednávka č. 900482 na povlečení s hotelovým uzávěrem,0
+132,"Střední zdravotnická škola a Vyšší odborná škola zdravotnická, Ostrava, příspěvková organizace",17428135,600920,23.11.2021,,"77 754,60 CZK",Objednávka pracovních oděvů pro žáky,0
+133,Ústav hematologie a krevní transfuze Praha,17385823,23736,10.12.2021,"93 870,55 CZK","113 583,41 CZK",Objednávka SZM,0
+134,Sociální a ošetřovatelské služby Praha 8 - SOS Praha 8,17305079,70871213,15.11.2021,,"51 000,00 CZK",objednávka OOPP,0
+135,Městská správa sociálních služeb Kadaň,17296183,65642481,02.12.2021,,"190 456,00 CZK",Nákup pracovních oděvů,0
+136,"Oblastní nemocnice Příbram, a.s.",17289687,27085031,03.12.2021,"53 325,00 CZK",,Dodavatelská objednávka č. DO588221 pro středisko 49000 - Amb. provozy centrál. příjmu,0
+137,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",17276059,346292,02.12.2021,"173 380,00 CZK","209 789,80 CZK",Objednávka k Rámcová kupní smlouva (jednorázové lůžkoviny),0
+138,Zdravotnické zařízení městské části Praha 4,17204983,44846291,16.11.2021,,,Dodatek k rámcové KS,0
+139,"Domov Nové Syrovice, příspěvková organizace",17186335,71184597,24.11.2021,,"5 929,00 CZK",- Předmětem této smlouvy je poskytnutí organizaci dar ve formě 100 kč ochranného oděvu proti covidu v částce 4.900 Kč bez DPH (5.929 Kč s DPH).- Dar poskytuje sponzor obdarovanému dobrovolně.- Sponzor má právo žádat obdarovaného o,0
+140,"Domov Sedlčany, poskytovatel sociálních služeb",17143431,42727227,09.11.2021,"75 000,00 CZK",,Přikrývky a polštáře,0
+141,Národní ústav duševního zdraví,17101175,23752,16.11.2021,,"138 000,00 CZK",ZDRAVOTNICKÉ OBLEČENÍ A OBUV,0
+142,Domov pro seniory Chodov,16883355,70876606,19.10.2021,,"98 476,00 CZK",objednávka - pracovní oblečení,0
+143,"Střední zdravotnická škola Brno, Jaselská, příspěvková organizace",16838223,637998,20.10.2021,,"88 962,83 CZK",Objednávka-pracovní oděvy,0
+144,Praha Ruzyně - vazební věznice (Vězeňská služba České republiky),16804979,212423,19.10.2021,"66 133,40 CZK","80 021,44 CZK","dodávková smlouva - objednávka, ochranné pracovní oděvy a obuv",0
+145,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",16763691,346292,14.10.2021,"81 780,00 CZK","98 953,80 CZK",Objednávka k Rámcová kupní smlouva (jednorázové lůžkoviny),0
+146,"Domov pro seniory v Hranicích, příspěvková organizace",16729915,71175202,04.10.2021,"99 899,75 CZK","120 654,44 CZK",Kupní smlouva - Osobní ochranné pracovní prostředky,0
+147,"Centrum sociální pomoci Třinec, příspěvková organizace",16494175,75055473,15.09.2021,,"75 000,00 CZK",Objednávka ochranných pracovních prostředků,0
+148,"Podkrušnohorské domovy sociálních služeb Dubí - Teplice, příspěvková organizace",16494875,63787849,15.09.2021,"188 402,00 CZK","227 966,42 CZK","Objednávka - ložní prádlo, přikrývky a polštáře, ručníky",0
+149,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",16372075,346292,01.09.2021,"90 340,00 CZK","109 311,40 CZK",Objednávka k Rámcová kupní smlouva (jednorázové lůžkoviny),0
+150,Ústav hematologie a krevní transfuze Praha,16288359,23736,23.08.2021,"53 631,50 CZK","64 894,12 CZK",Objednávka pracovních oděvů,0
+151,Krajské ředitelství policie Libereckého kraje,16212663,72050501,09.08.2021,,"62 920,00 CZK",Objednávka - jednorázová prostěradla,0
+152,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",16162687,346292,05.08.2021,"69 300,00 CZK","83 853,00 CZK",Objednávka k Rámcová kupní smlouva (jednorázové lůžkoviny),0
+153,"Domov pro osoby se zdravotním postižením ""PRAMEN"" v Mnichově, příspěvková organizace",16137579,71175326,07.07.2021,"97 778,05 CZK","118 311,44 CZK",Kupní smlouva oděvů,0
+154,"Domov pro seniory Mitrov, příspěvková organizace",15878195,71184449,06.05.2021,,"1,00 CZK",Rámcová kupní smlouva.,0
+155,Dům sociálních služeb Návojná,15731275,70850852,14.06.2021,"165 000,00 CZK","199 650,00 CZK",Rámcová kupní smlouva na dodávku pracovních oděvů,0
+156,Domov pro osoby se zdravotním postižením Kytlice,12933888,70872708,17.09.2020,"78 660,00 CZK","95 179,00 CZK",Objednávka-Nákup 12 000 ks chirurgických ústenek jednorázových s gumičkou,0
+157,"Domov Barbora Kutná Hora, poskytovatel sociálních služeb",15473619,48677752,20.05.2021,"99 360,00 CZK","120 891,10 CZK",Dodání 160 ks povlečení Atlas Grádl,0
+158,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",15428399,346292,14.05.2021,"1 057 050,00 CZK","1 279 030,50 CZK",Rámcová kupní smlouva (jednorázové lůžkoviny),0
+159,"Domov pro seniory Javorník, příspěvková organizace",15369559,75004101,11.05.2021,"82 645,00 CZK","100 000,00 CZK",Ložní prádlo apod.,0
+160,Domov se zvláštním režimem Terezín,15334459,70875308,06.05.2021,"56 183,00 CZK","67 981,43 CZK","Objednávka; Povlaky na přikrývky, povlaky na polštáře, plátěná prostěradla do gumy",0
+161,Domov pro seniory Chýnov,15296283,75011204,04.05.2021,"94 339,65 CZK","114 152,00 CZK",Objednávka č. 124/2021 - nákup pracovních oděvů pro zaměstnance DS Chýnov,0
+162,Domov pro seniory Chýnov,15296199,75011204,04.05.2021,"5 912,15 CZK","7 155,00 CZK",Objednávka č. 123/2021 - nákup pracovních oděvů pro zaměstnance DS Chýnov - pracoviště Budislav,0
+163,"Dům seniorů Kdyně, příspěvková organizace",15233675,75007746,21.04.2021,,"82 827,00 CZK",Pracovní ochranné oblečení,0
+164,"Domov pro seniory ""SKALKA"" v Chebu, příspěvková organizace",15191747,71175245,22.04.2021,"49 105,00 CZK","59 417,05 CZK",Objednávka pracovních oděvů,0
+165,CENTRUM SOCIÁLNÍCH A ZDRAVOTNÍCH SLUŽEB MĚSTA PŘÍBRAM,15135879,47067071,19.04.2021,"57 851,00 CZK","70 000,00 CZK",Objednávka oděvů,0
+166,"Městské zařízení sociálních služeb, příspěvková organizace",14961247,47701277,31.03.2021,"58 252,00 CZK","70 484,92 CZK",Pracovní oděvy pro pečovatelskou službu,0
+167,"Ústav molekulární genetiky AV ČR, v. v. i.",14927547,68378050,30.03.2021,"56 650,00 CZK","68 546,50 CZK",Objednávka - materiál - jednorázové pomůcky,0
+168,"Domov pro seniory Krásné Březno, příspěvková organizace",14838719,44555334,23.03.2021,"265 000,00 CZK","320 650,00 CZK",OOP - plášť návštěvnický s lemem na rukávech,0
+169,Centrum sociálních služeb Jeseník,14626159,852163,18.02.2021,"30 000,00 CZK",,"OOPP, počet ks a vzory dle vlastního výběru",0
+170,Státní zdravotní ústav,14598651,75010330,02.03.2021,"72 439,13 CZK",,objednávka pracovního oblečení,0
+171,Centrum sociálních služeb Jeseník,14560939,852163,01.02.2021,,"49 999,00 CZK",Celoroční odběr zboží dle vlastního výběru,0
+172,"Domov pro seniory Krásné Březno, příspěvková organizace",14350443,44555334,03.02.2021,"217 324,00 CZK","262 962,00 CZK",ochranné pomůcky - empíry,0
+173,"Domov Sluníčko, Ostrava-Vítkovice, příspěvková organizace",14168215,70631832,15.01.2021,"200 000,00 CZK",,"Objednávka - zdravotní materiál, oděvy, OOPP (celoroční)",0
+174,"Zdravotnická záchranná služba Plzeňského kraje, příspěvková organizace",14138171,45333009,13.01.2021,,"75 000,00 CZK",Objednávka - 180 ks oranžových polokošil s logy ZZS PK,0
+175,Zdravotnické zařízení městské části Praha 4,14083543,44846291,16.12.2020,"100 000,00 CZK","121 000,00 CZK",Rámcová kupní smlouva 2021,0
+176,"Domov Božice, příspěvková organizace",14040211,45671877,03.12.2020,"75 420,00 CZK","91 258,20 CZK",Dodávka polštářů a přikrývek,0
+177,Městská správa sociálních služeb Kadaň,13962515,65642481,17.12.2020,,"126 308,00 CZK",Nákup pracovních oděvů,0
+178,Městská správa sociálních služeb Kadaň,13965663,65642481,18.12.2020,,"24 191,00 CZK",Nákup pracovních oděvů,0
+179,"Sociální služby Libina, příspěvková organizace",13946107,75003988,18.12.2020,,"86 022,00 CZK","Ochranné pracovní oděvy pro zaměsntnance, <span style=""font-size: 0.78em;"">a to: </span><span style=""font-size: 12pt; font-family: 'Times New Roman', serif;"">a to: </span><span style=""font-size: 12pt; font-family: 'Times New Roman', serif;"">kal",0
+180,Krajské ředitelství policie Libereckého kraje,13881382,72050501,14.12.2020,,"62 920,00 CZK",Objednávka - prostěradla,0
+181,Ústav hematologie a krevní transfuze Praha,13853222,23736,14.12.2020,"76 371,70 CZK","92 409,76 CZK",Objednávka SZM,0
+182,"Podkrušnohorské domovy sociálních služeb Dubí - Teplice, příspěvková organizace",13649249,63787849,27.11.2020,"50 408,00 CZK","60 993,68 CZK",Objednávka č. 74/2020 - povlečení,0
+183,"Domov Božice, příspěvková organizace",13580217,45671877,13.11.2020,"207 000,00 CZK","250 470,00 CZK",Dodávka pracovního oblečení,0
+184,Psychiatrická nemocnice Jihlava,13565844,600601,05.11.2020,"74 000,00 CZK","89 540,00 CZK",Objednávka - Nákup jednorázových plášťů,0
+185,"Domov pro seniory Krásné Březno, příspěvková organizace",13463100,44555334,09.11.2020,"101 985,00 CZK","123 401,85 CZK",ochranné pomůcky - empíry,0
+186,"Zdravotnická záchranná služba Kraje Vysočina, příspěvková organizace",13431780,47366630,09.11.2020,"290 000,00 CZK","350 900,00 CZK",Kupní smlouva na dodávku empírů.,0
+187,"Zdravotnická záchranná služba Plzeňského kraje, příspěvková organizace",13365192,45333009,29.10.2020,,"75 000,00 CZK",Objednávka - 1000 ks plášťů pro VZ Plzeň-Bory,0
+188,Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha,13326196,61383082,29.10.2020,"86 292,56 CZK",,OBJ-SVM2001163,0
+189,"Domov Čujkovova, Ostrava-Zábřeh, příspěvková organizace",13212132,70631875,15.10.2020,"402 000,00 CZK","486 420,00 CZK",Nákup osobních ochranných prostředků,0
+190,Domovy Na Třešňovce,13159244,71193952,08.10.2020,,"108 561,20 CZK",Nákup ložního povlečení,0
+191,"Domov Sluníčko, Ostrava-Vítkovice, příspěvková organizace",13114688,70631832,05.10.2020,"138 000,00 CZK",,Objednávka ochranných pracovních pomůcek,0
+192,"Sociální služby města České Lípy, příspěvková organizace",13032852,72745339,02.10.2020,"118 000,00 CZK","143 000,00 CZK",Objednávka jednorázových rukavic,0
+193,"Domov Duha, příspěvková organizace",13016548,48804886,01.10.2020,"109 165,00 CZK",,Jednorázové nitrilové rukavice,0
+194,"Centrum sociálních služeb Domažlice, příspěvková organizace",12967752,75007754,25.09.2020,"102 537,19 CZK","124 070,00 CZK",OOPP - COVID_19,0
+195,"Zdravotnická záchranná služba Kraje Vysočina, příspěvková organizace",12965052,47366630,25.09.2020,"98 600,00 CZK","119 306,00 CZK",Kupní smlouva na dodávku jednorázových plášťů.,0
+196,"Domov pro seniory Krásné Březno, příspěvková organizace",12884300,44555334,17.09.2020,"144 000,00 CZK","174 240,00 CZK",ochranné pomůcky - pláště (empíry),0
+197,Domov pro seniory Chodov,12875440,70876606,15.09.2020,"98 223,00 CZK",,Objednávka - pracovní oděvy,0
+198,"Domov Unhošť, poskytovatel sociálních služeb",12714128,71234411,21.08.2020,"67 120,00 CZK","81 215,00 CZK",Objednávka na dodávku ložního prádla,0
+199,"Zdravotnická záchranná služba Středočeského kraje, příspěvková organizace",12566724,75030926,06.08.2020,"11,20 CZK",,Smlouva kupní - kupující - Rámcová kupní smlouva - jednorázová prostěradla,0
+200,"Domov Barbora Kutná Hora, poskytovatel sociálních služeb",12531292,48677752,03.08.2020,"750 000,00 CZK","907 500,00 CZK",Dodávky osobních ochranných pracovních prostředků,0
+201,Ústav hematologie a krevní transfuze Praha,12097076,23736,15.06.2020,"65 973,75 CZK","79 828,24 CZK",Objednávka SZM,0
+202,"Zdravotnická záchranná služba Plzeňského kraje, příspěvková organizace",12083180,45333009,14.06.2020,,"83 000,00 CZK",Polokošile pro záchranáře,0
+203,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",12013032,346292,05.06.2020,"53 650,00 CZK","64 916,50 CZK",Objednávka k Rámcová kupní smlouva - jednorázové lůžkoviny,0
+204,"Domov pro seniory Kosmonautů, příspěvková organizace",11916204,70887209,13.05.2020,"3 840,00 CZK","4 646,40 CZK",Objednávka - osobní ochranné prostředky.,0
+205,"Domov pro seniory Javorník, příspěvková organizace",11638776,75004101,30.04.2020,"100 000,00 CZK","121 000,00 CZK",Nákup ložního prádla,0
+206,"Zdravotnická záchranná služba Zlínského kraje, příspěvková organizace",11640040,62182137,30.04.2020,"94 230,00 CZK","114 018,00 CZK",Respirátory FFP3,0
+207,Ústav sociálních služeb města Nové Paky,11582776,60117150,28.04.2020,,,nákup ochranných pomůcek,0
+208,"Zdravotnická záchranná služba Zlínského kraje, příspěvková organizace",2443742,62182137,14.07.2017,"2 115 200,00 CZK","2 559 392,00 CZK",Rámcová kupní smlouva na dodávky jednorázových lůžkovin,0
+209,"Domov pro seniory Krásné Březno, příspěvková organizace",11551048,44555334,16.04.2020,"90 783,85 CZK","109 848,46 CZK",ochranné pracovní oděvy,0
+210,"Nemocnice s poliklinikou Česká Lípa, a.s.",11547872,27283518,24.04.2020,"190 000,00 CZK",,"anděl z netkaně textilie, ze SMS, s laminací",0
+211,"Zdravotnická záchranná služba Zlínského kraje, příspěvková organizace",11557088,62182137,22.04.2020,"60 614,00 CZK","73 343,00 CZK","Dohoda o vypořádání bezdůvodného obohacení - ochranné pomůcky - návleky na boty, jednoráz.pláště",0
+212,Ústav sociálních služeb města Nové Paky,11510196,60117150,23.04.2020,,,nákup ochranných pomůcek,0
+213,"Krajská zdravotní, a.s.",11461408,25488627,20.04.2020,"310 000,00 CZK","375 100,00 CZK",Objednávka léků a ZM,0
+214,Rehabilitační ústav Kladruby,11427516,68705,17.04.2020,,"96 086,00 CZK",Objednávka ochranných pomůcek,0
+215,Domov pro seniory Zahradní Město,11422288,70878030,06.04.2020,"19 835,00 CZK","24 000,00 CZK","Objednávka_Jednorázové pláště, návleky, čepice",0
+216,Ústav hematologie a krevní transfuze Praha,11395656,23736,15.04.2020,"61 770,00 CZK","74 741,70 CZK",Objednávka SZM,0
+217,Ústav hematologie a krevní transfuze Praha,11395644,23736,15.04.2020,"56 014,00 CZK","67 776,94 CZK",Objednávka SZM,0
+218,"Zdravotnická záchranná služba Zlínského kraje, příspěvková organizace",11336976,62182137,23.03.2020,"61 983,00 CZK","75 000,00 CZK",Dodávka ochranných pomůcek,0
+219,Domov pro seniory Zahradní Město,11248860,70878030,02.03.2020,"5 785,00 CZK","7 000,00 CZK",Objednávka - jednorázová zástěra,0
+220,"Oblastní nemocnice Příbram, a.s.",11232100,27085031,30.03.2020,"67 000,00 CZK",,Dodavatelská objednávka č. DO144820 pro středisko 60020 - Společné náklady a výnosy PB,0
+221,"Nemocnice s poliklinikou Česká Lípa, a.s.",11224880,27283518,27.03.2020,"101 200,00 CZK",,"jednorázová přikrývka, jednorázové prostěradlo",0
+222,Zdravotnické zařízení Ministerstva vnitra,11218592,75154960,19.03.2020,"56 870,00 CZK","68 812,70 CZK",Dodávka OOPP,0
+223,"Domov pro seniory v Hranicích, příspěvková organizace",11115692,71175202,27.02.2020,"120 093,50 CZK","145 313,00 CZK",Kupní smlouva na osobní ochranné pracovní prostředky,0
+224,"Krajská zdravotní, a.s.",11098092,25488627,12.03.2020,"122 000,00 CZK","147 620,00 CZK",2SZM316890-2P SERVIS s.r.o.,0
+225,Městská správa sociálních služeb v Mostě - příspěvková organizace,10898080,831212,02.01.2020,"150 000,00 CZK",,Dodatek č. 2 ke Kupní smlouvě č. 105/2017,0
+226,Centrum sociálních služeb Jeseník,10835532,852163,03.02.2020,"49 999,00 CZK",,Celoroční odběr zboží dle vlastního výběru.,0
+227,Centrum sociálních služeb Jeseník,10801492,852163,30.01.2020,"22 819,00 CZK","30 357,70 CZK","Pracovní oblečení, bílé podložky",0
+228,Institut klinické a experimentální medicíny,10739424,23001,20.12.2019,,"106 480,00 CZK",Objednávka - Referát zdravotnických prostředků,0
+229,Zdravotnické zařízení městské části Praha 4,10734132,44846291,02.01.2020,"100 000,00 CZK","121 000,00 CZK",Rámcová smlouva 2020,0
+230,Fakultní nemocnice Hradec Králové,10487220,179906,23.12.2019,"250 000,00 CZK",,dohoda o dodávkách náhradního plnění,0
+231,Městská správa sociálních služeb v Mostě - příspěvková organizace,4319504,831212,08.01.2018,"500 000,00 CZK",,Kupní smlouva - dodávka osobních ochranných pracovních prostředků,0
+232,"Podkrušnohorské domovy sociálních služeb Dubí - Teplice, příspěvková organizace",10444080,63787849,30.12.2019,,"134 628,20 CZK",Objednávka č. 110/2019 - 240 ks povlečení + prostěradla,0
+233,Městská správa sociálních služeb Kadaň,10442128,65642481,19.12.2019,,"140 030,00 CZK",Nákup pracovních oděvů,0
+234,"Domov pro seniory Loučka, příspěvková organizace",10392044,70850895,25.10.2019,"54 914,67 CZK",,Pracovní oděvy,0
+235,"Sociální služby města Přerova, p.o.",10322120,49558854,13.12.2019,"88 870,00 CZK",,Dodávka ložního prádla a podložek,0
+236,"Domov klidného stáří v Žinkovech, příspěvková organizace",10237188,49180312,02.12.2019,"70 227,00 CZK",,Objednávka ochranných pracovních pomůcek,0
+237,Domov pro seniory Ďáblice,10220720,70875839,29.11.2019,"229 635,00 CZK","277 858,35 CZK",Objednávka pracovních oděvů,0
+238,Domov bez bariér,10164012,13583212,27.11.2019,"54 611,50 CZK",,Nákup pracovních oděvů,0
+239,Domov se zvláštním režimem Terezín,10151444,70875308,27.11.2019,"174 896,00 CZK","211 624,16 CZK","Dodávka ložního prádla, prostěradel, osušek, ručníků, utěrek, polštářů, přikrývek a dek",0
+240,Domov pro seniory Chodov,10123744,70876606,26.11.2019,,"114 564,00 CZK",objednávka pracovního oblečení,0
+241,"Domov Na Výsluní, Hořovice",10031936,70539456,18.11.2019,"64 361,00 CZK","77 877,00 CZK",nákup textilu,0
+242,Domov pro seniory Chýnov,10003708,75011204,15.11.2019,"390 000,00 CZK","471 900,00 CZK",Kupní smlouva - pracovní oděvy,0
+243,"Domov pro seniory ""SKALKA"" v Chebu, příspěvková organizace",9934520,71175245,06.11.2019,"178 404,00 CZK","215 868,84 CZK",Kupní smlouva,0
+244,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",9874352,346292,04.11.2019,"74 650,00 CZK","90 326,50 CZK",Objednávka - Rámcová kupní smlouva - jednorázové lůžkoviny,0
+245,Domov pro seniory Chvalkov,9778822,666246,21.10.2019,"250 000,00 CZK",,Kupní smlouva - nákup ochranných pracovních oděvů,0
+246,Senior-dům Soběslav,9618110,70920567,24.09.2019,"42 440,00 CZK","51 352,00 CZK",žínky froté 95 2000 ks,0
+247,"Domov pro seniory Pelhřimov, příspěvková organizace",9572478,75136295,30.09.2019,,,dodání zboží - pracovní oblečení,0
+248,Domov důchodců Náchod,9414418,71193987,13.09.2019,"61 000,00 CZK","74 000,00 CZK","Dodávka textilu žínky, ručníky a overaly",0
+249,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",9299338,346292,02.09.2019,"60 150,00 CZK",,Objednávka lůžkovin - září 2019,0
+250,Ošetřovatelský domov Praha 3,9282155,65990641,30.05.2019,"86 790,00 CZK","105 015,90 CZK",pracovní oblečení,0
+251,Domov pro seniory Vratislavice nad Nisou,9153347,71220038,02.08.2019,"76 859,50 CZK","93 000,00 CZK",Objednávka pracovních oděvů pro zaměstnance,0
+252,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",9083695,346292,02.08.2019,"60 800,00 CZK",,Objednávka jednorázových lůžkovin - srpen 2019,0
+253,"Domov pro seniory Javorník, příspěvková organizace",4807152,75004101,06.04.2018,,,"polštáře, přikrývky, jednorázové prádlo",0
+254,Dům sociálních služeb Návojná,8945511,70850852,16.07.2019,"45 380,90 CZK","54 911,00 CZK",Objednávka pracovního oblečení,0
+255,"Domov pro seniory Hostim, příspěvková organizace",8676915,45671761,28.05.2019,"75 000,00 CZK","90 750,00 CZK","Smlouva o dodávkách zboží - oděvy, obuv a další pomůcky",0
+256,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",8614059,346292,10.06.2019,"744 700,00 CZK","901 087,00 CZK",Rámcová kupní smlouva - lůžkoviny,0
+257,Fakultní nemocnice Hradec Králové,8546503,179906,29.05.2019,"100 000,00 CZK",,Rámcová dohoda - defibrilátor lifepack 20 - I.INT,0
+258,"Domov Barbora Kutná Hora, poskytovatel sociálních služeb",5923595,48677752,10.08.2018,"58 000,00 CZK","70 180,00 CZK",Prodej matrací,0
+259,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",8328419,346292,23.04.2019,"112 770,00 CZK",,Objednávka jednorázových lůžkovin - květen 2019,0
+260,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",8195663,346292,23.04.2019,"112 770,00 CZK",,Objednávka lůžkovin - duben 2019,0
+261,"Střední odborná škola a Střední odborné učiliště, Sušice, U Kapličky 761",8142191,77615,15.04.2019,"50 203,00 CZK","60 746,00 CZK",Dohoda o vypořádání bezdůvodného obohacení - 2P Servis s.r.o.,0
+262,Domov pro seniory Vrchlabí,8088431,194891,27.03.2019,,,nákup OOPP,0
+263,Domov se zvláštním režimem Terezín,6938771,70875308,30.11.2018,"258 878,00 CZK",,"Dodávka ložního prádla, osušek, utěrek, ručníků a ubrusů",0
+264,Domov pro seniory Chýnov,7817019,75011204,08.03.2019,"51 163,80 CZK","61 909,00 CZK",Objednávka 77/2019 - pracovní oděvy,0
+265,"Domov Na Zámku Lysá nad Labem, příspěvková organizace",7693583,49534963,19.02.2019,"274 445,00 CZK","332 078,45 CZK",Kupní smlouva - Osobní ochranné pracovní prostředky pro zaměstnance domova pro seniory,0
+266,Úřad práce ČR - krajská pobočka v Plzni - kontaktní pracoviště Klatovy (Úřad práce České republiky),7688179,72496991,21.02.2019,"80 616,00 CZK","80 616,00 CZK",Dohoda číslo KTA-PC-1/2019,0
+267,Domov se zvláštním režimem Terezín,7673639,70875308,20.02.2019,"65 484,00 CZK","79 237,00 CZK",Dodávka Fleecových mikin pro zaměstnance,0
+268,"Domov pro osoby se zdravotním postižením ""PRAMEN"" v Mnichově, příspěvková organizace",7633759,71175326,18.02.2019,"95 080,00 CZK","115 047,00 CZK",Nákup pracovních oděvů,0
+269,Domov pro seniory Zahradní Město,7593511,70878030,30.01.2019,"5 785,00 CZK","7 000,00 CZK","Objednávka, jednorázové zástěry PE",0
+270,Zdravotnické zařízení městské části Praha 4,7527827,44846291,28.01.2019,"100 000,00 CZK","121 000,00 CZK",Rámcová smlouva,0
+271,Domov Svojšice,7485575,70876720,12.02.2019,"150 000,00 CZK",,Rámcová kupní smlouva,0
+272,Domov pro seniory Chodov,7466395,70876606,28.01.2019,"63 766,00 CZK",,objednávka pracovního oblečení,0
+273,Městská správa sociálních služeb Kadaň,7429115,65642481,10.01.2019,"91 447,90 CZK","110 652,00 CZK",Smlouva o vypořádání závazků,0
+274,Centrum sociálních služeb Jeseník,7426711,852163,24.01.2019,"49 999,00 CZK",,Odběr zboží dle vlastního výběru,0
+275,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",7239815,346292,07.01.2019,"67 050,00 CZK",,Objednávka lůžkovin - leden 2019,0
+276,Městská správa sociálních služeb Kadaň,7164927,65642481,28.11.2018,"61 892,80 CZK","74 890,29 CZK",Nákup pracovních oděvů,0
+277,Domov V Podzámčí,7017443,64809234,20.11.2018,,"93 811,00 CZK",deky,0
+278,"Domov Rožďalovice, poskytovatel sociálních služeb",6969507,49534955,30.11.2018,"62 829,00 CZK","76 024,38 CZK",Nákup ložního prádla pro Domov Rožďalovice – poskytovatel sociálních služeb,0
+279,Centrum sociálních služeb Praha,6860799,70878277,22.11.2018,"67 880,00 CZK","82 135,00 CZK",Objednávka č. 900335 na nákup lůžkovin,0
+280,"Střední odborná škola a Střední odborné učiliště, Sušice, U Kapličky 761",6859319,77615,21.11.2018,"50 203,00 CZK","60 745,63 CZK","Dodávka pracovního oblečení - v rámci projektu č. 71, CÍl EÚS",0
+281,Konzervatoř a Vyšší odborná škola Jaroslava Ježka,6863719,63834286,20.11.2018,"64 462,80 CZK","78 000,00 CZK",objednávka na nákup povlečení,0
+282,Domov bez bariér,6801227,13583212,05.11.2018,"54 370,60 CZK","65 788,40 CZK",kupní smlouva pro jednorázový nákup pracovních oděvů,0
+283,"Podkrušnohorské domovy sociálních služeb Dubí - Teplice, příspěvková organizace",6781283,63787849,14.11.2018,,"216 231,84 CZK",Objednávka č. 88/2018 - povlečení a ručníky,0
+284,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",6789923,346292,14.11.2018,"58 400,00 CZK",,Objednávka lůžkovin - listopad 2018,0
+285,Domov pro seniory Chodov,6773607,70876606,17.10.2018,,"119 480,96 CZK",objednávka pracovního oblečení,0
+286,Centrum sociálních služeb Jeseník,6737563,852163,31.10.2018,"27 000,00 CZK",,Ochranné pracovní pomůcky a prostředky,0
+287,"Sociální služby Libina, příspěvková organizace",6695867,75003988,31.10.2018,,,Objednávka ochranných pracovních oděvů pro zaměstnance,0
+288,Domov se zvláštním režimem Terezín,5064339,70875308,16.01.2018,"68 665,00 CZK",,Dodávka oděvů a obuvi,0
+289,IKEM,6594043,23001,25.10.2018,"50 000,00 CZK",,"Kupní smlouva, Dodávky zaměsntnaneckého prádla pro potřeby lékárny",0
+290,"Domov pro seniory Burešov, příspěvková organizace",6526927,70851042,17.10.2018,"111 350,00 CZK","134 733,50 CZK",polštáře a přikrývky,0
+291,Domov se zvláštním režimem Terezín,5676299,70875308,16.01.2018,"67 581,00 CZK","81 773,00 CZK",Dodávka oděvů a obuvi,0
+292,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",6430463,346292,08.10.2018,"69 750,00 CZK",,Objednávka lůžkovin - říjen 2018,0
+293,Domov důchodců Náchod,6125523,71193987,05.09.2018,"68 400,00 CZK","83 000,00 CZK","Dodávka prádla, ložních podložek a textilních pytlů na špinavé prádlo",0
+294,Národní ústav duševního zdraví,6026703,23752,22.08.2018,,"500 000,00 CZK",Rámcová smlouva - zdravotnické oděvy,0
+295,"Domov Horizont, příspěvková organizace",5904707,46937145,24.07.2018,,"230 030,00 CZK",Rámcová kupní smlouva - zdravotnické a pracovní oděvy,0
+296,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",5884987,346292,06.08.2018,"60 990,00 CZK",,Objednávka lůžkovin,0
+297,"Domov pro seniory v Lázních Kynžvart, příspěvková organizace",5876659,71175237,20.07.2018,,"90 000,00 CZK",pracovní oděvy,0
+298,Integrované centrum pro osoby se zdravotním postižením Horní Poustevna,5693031,70872686,19.06.2018,"94 496,61 CZK","114 343,00 CZK",povlečení pro klienty,0
+299,Domov pro seniory Zahradní Město,5601335,70878030,25.06.2018,"17 769,00 CZK","21 500,00 CZK",Objednávka - triko uni véčko,0
+300,Dům sociálních služeb Návojná,3626584,70850852,19.10.2017,"80 000,00 CZK","96 800,00 CZK",Objednávka pracovního oblečení,0
+301,Dům sociálních služeb Návojná,3818212,70850852,15.12.2017,"99 900,00 CZK","120 879,00 CZK",Objednávka 15 ks křesel Jindřich,0
+302,Domov pro seniory Heřmanův Městec,5428635,70876258,07.06.2018,,,Objednávka pracovních oděvů pro zaměstnance,0
+303,Domov pro seniory Zahradní Město,5323207,70878030,16.05.2018,"5 785,00 CZK","7 000,00 CZK",Objednávka - jednorázová zástěra,0
+304,Zdravotnické zařízení Ministerstva vnitra,2920590,75154960,05.09.2017,"156 399,00 CZK","189 242,79 CZK",OOPP - pracovní oděvy,0
+305,"Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace",5055655,346292,04.05.2018,"470 000,00 CZK","568 700,00 CZK",Rámcová kupní smlouva - lůžkoviny,0
+306,"Domov Barbora Kutná Hora, poskytovatel sociálních služeb",4630748,48677752,13.03.2018,"150 000,00 CZK","181 500,00 CZK",Nákupy a odběry zboží,0
+307,Policejní akademie České republiky v Praze,4881536,48135445,05.04.2018,,"85 365,50 CZK",Objednávka - nákup lůžkovin,0
+308,Domov pro seniory Zahradní Město,4542820,70878030,05.03.2018,"1 653,00 CZK","2 000,00 CZK","Objednávka, jednorázové zástěry",0
+309,Centrum sociálních služeb Jeseník,4536428,852163,28.02.2018,"20 776,00 CZK",,OOPP dle vlastního výběru,0
+310,Domov pro seniory Chodov,4480764,70876606,27.02.2018,,"115 087,00 CZK",objednávka pracovního oblečení,0
+311,Domov důchodců Dvůr Králové nad Labem,4379564,194964,19.02.2018,,"50 000,00 CZK",Nákupy a odběry zboží,0
+312,"Domov pro seniory a dům s pečovatelskou službou Mariánské Lázně, příspěvková organizace",4325520,575143,12.01.2018,"200 000,00 CZK",,Rámcová smlouva - dodávka pracovních oděvů a obuvi,0
+313,"Centrum seniorů Mělník, příspěvková organizace",3905172,70824282,27.11.2017,,"351 048,00 CZK","Vybavení domovů Ludmila, Penzion, Vážka",0
+314,Domov důchodců Police nad Metují,4127192,71194002,19.01.2018,,,Rámcová kupní smlouva,0
+315,"Domov pro seniory Vratislavice nad Nisou, příspěvková organizace",3929740,71220038,20.12.2017,"75 512,60 CZK","91 370,00 CZK","Nákup ochranných osobních pracovních prostředků - kalhoty, haleny, košile",0
+316,"Centrum seniorů Mělník, příspěvková organizace",3903444,70824282,05.12.2017,,"347 194,00 CZK",Oděvy pro pracovníky CSM,0
+317,Zdravotnické zařízení MČ Praha 4,3872344,44846291,02.01.2018,"250 000,00 CZK","302 500,00 CZK",Náhradní plnění 2018,0
+318,"Domov seniorů Uhlířské Janovice, příspěvková organizace",3852336,48677744,08.12.2017,,,Rámcová kupní smlouva - nákup dle dílčích objednávek,0
+319,"Domov Na Výsluní, Hořovice",3811392,70539456,23.11.2017,,"81 088,00 CZK",Nákup pracovních oděvů,0
+320,Domov pro seniory Chodov,3805844,70876606,12.12.2017,,"79 302,60 CZK",objednávka pracovní oblečení,0
+321,Zdravotnické zařízení Ministerstva vnitra,2880498,75154960,05.09.2017,"2 257 125,00 CZK","2 731 121,25 CZK",OOPP - zdravotnické oděvy,0
+322,"Dětský domov, Kašperské Hory",3610680,61751065,30.10.2017,"58 670,00 CZK","70 991,00 CZK","Přikrývka s polštářem antistres, prostěradlo safr nepropustné na gumu",0
+323,Domov se zvláštním režimem Terezín,3530636,70875308,20.11.2017,"138 698,00 CZK","167 824,58 CZK","Dodávka ložního prádla, osušek, ručníků a utěrek do DZR Terezín",0
+324,Centrum sociálních služeb Praha,3512504,70878277,13.11.2017,"66 500,00 CZK",,"Objednávka č. 900289 na nákup 100 setů polštář, přikrývka",0
+325,"Mateřská škola Praha 9 - Hloubětín, Štolmířská 602, příspěvková organizace",3419840,70920257,16.06.2017,"46 600,00 CZK","56 386,00 CZK",Objednávka setů do postýlky,0
+326,Centrum sociálních služeb Praha,3456456,70878277,10.11.2017,"86 400,00 CZK","104 544,00 CZK",Objednávka č. 900287,0
+327,Domov se zvláštním režimem Terezín,3395992,70875308,03.11.2017,"65 947,60 CZK","79 797,00 CZK",dodávka 176ks fleece vest pro zaměstnance DZR Terezín,0
+328,Střední škola nábytkářská a obchodní Bystřice pod Hostýnem,3393956,47935952,30.10.2017,"46 741,30 CZK","56 557,00 CZK","Přikrývky celoroční, Jednorázový rozpustný pytel na prádlo 60 L, Jednorázový rozpustný pytel na prádlo 100 L, Prošívané polštáře",0
+329,"Sociální služby Semily, příspěvková organizace",3190430,854930,11.09.2017,,"65 572,00 CZK",Kupní smlouva,0
+330,"Sociální služby, příspěvková organizace",3111706,70832641,05.10.2017,,"72 479,00 CZK",Objednávka na nákup zboží,0
+331,Domov důchodců Náchod,3097658,71193987,22.09.2017,"162 000,00 CZK","196 000,00 CZK","Nákup a dodání plátěných pytlů na prádlo,podložek do lůžka,krepového povlečení a pečovatelských overalů pro klienty",0
+332,"Domov pro seniory sv. Hedviky - Kravaře, příspěvková organizace",3038554,47815868,26.09.2017,"78 325,00 CZK","94 838,00 CZK",Objednávka ochranné oděvy,0
+333,"Domov pro seniory Černá Hora, příspěvková organizace",2708222,380458,09.08.2017,,"80 685,50 CZK",Dodávka pracovních oděvů,0
+334,Hyg. stanice hl. m. Prahy,2438842,71009256,23.06.2017,"76 623,14 CZK","92 714,00 CZK",Nákup jednorázových pracovních oděvů,0
+335,Domov důchodců Ústí nad Orlicí,2308002,70857130,13.04.2017,"83 394,70 CZK","100 907,59 CZK",Objednávka pracovních oděvů,0
+336,Centrum sociálních služeb Naděje Broumov,2287250,48623865,27.06.2017,,"60 000,00 CZK",Ochranné a pracovní oděvy,0
+337,Domov důchodců Ústí nad Orlicí,1937786,70857130,20.02.2017,,,Rámcová kupní smlouva,0
+338,"Střední odborná škola a Střední odborné učiliště, Sušice, U Kapličky 761",1914246,77615,22.02.2017,"51 191,30 CZK","61 941,00 CZK",Dodávka pracovních oděvů,0
+339,"Domov pro seniory Foltýnova, příspěvková organizace",1769090,70887055,24.04.2017,"1 652 892,00 CZK","2 000 000,00 CZK",Dodávka ochranných pracovních pomůcek,0
+340,"Domov pro seniory Hostim, příspěvková organizace",1686046,45671761,26.04.2017,"126 095,00 CZK","152 575,00 CZK",Kupní smlouva - pracovní oděvy pro zaměstnance,0
+341,"Domov Barbora Kutná Hora, poskytovatel sociálních služeb",1427930,48677752,23.03.2017,"50 000,00 CZK",,Nákup a odběr zboží včetně náhradního plnění,0
+342,Centrum sociálních služeb Praha,1367494,70878277,14.11.2016,"56 000,00 CZK",,Objednávka na nákup 200 sad povlečení,0
+343,Městská správa sociálních služeb - příspěvková organizace,1097429,831212,12.01.2017,"300 000,00 CZK",,Dodatek ke kupní smlouvě - dodávka ochranných osobních pracovních prostředků,0
+344,Centrum sociálních služeb Jeseník,1082985,852163,30.11.2016,"23 007,00 CZK","27 839,00 CZK",Nákup pracovního oblečení,0
+345,Domov pro seniory Chýnov,978777,75011204,20.12.2016,"108 827,27 CZK","131 681,00 CZK",Objednávka 227/2016 - pracovní oděvy,0
+346,Domov důchodců Tmavý Důl,10837,194913,12.07.2016,"54 843,55 CZK","66 360,70 CZK",Nákup ochranných pomůcek - oblečení,0
+347,"Domov pro seniory sv. Hedviky - Kravaře, příspěvková organizace",818801,47815868,19.12.2016,"59 419,00 CZK","71 897,00 CZK",Objednávka pracovní oděvy,0
+348,"Domov seniorů Uhlířské Janovice, příspěvková organizace",750457,48677744,08.12.2016,,,Rámcová smlouva 2P SERVIS s.r.o.,0
+349,"Domov důchodců Rokytnice nad Jizerou, příspěvková organizace",698949,85782,14.09.2016,,"43 000,00 CZK",nákup zboží - ochranné pracovní pomůcky,0
+350,"Centrum Dominika Kokory, příspěvková organizace",597905,61985929,14.10.2016,"62 060,00 CZK","75 093,00 CZK","dodávka froté ručníků, polštářů, přikrývek, utěrek a prostěradel",0
+351,"Podkrušnohorské domovy sociálních služeb Dubí - Teplice, příspěvková organizace",580465,63787849,21.11.2016,"120 920,00 CZK","146 313,20 CZK","Objednávka - povlečení, prostěradla, ručníky",0
+352,"Domov pro seniory Loučka, příspěvková organizace",467785,70850895,20.10.2016,"103 000,00 CZK",,Rámcová kupní smlouva,0
+353,"Domov Barbora Kutná Hora, poskytovatel sociálních služeb",455337,48677752,12.10.2016,"104 926,00 CZK","126 960,50 CZK",Jednorázový nákup a odběr zboží,0
+354,Domov se zvláštním režimem Terezín,448817,70875308,31.10.2016,"222 073,00 CZK","268 708,33 CZK","Dodávka ložního prádla, osušek, ručníků a utěrek do DZR Terezín",0
+355,"Vyšší odborná škola zdravotnická a Střední zdravotnická škola, Hradec Králové, Komenského 234",425093,581101,11.10.2016,,,Objednávka lůžkovin,0
+356,"Vyšší odborná škola zdravotnická a Střední zdravotnická škola, Hradec Králové, Komenského 234",425057,581101,11.10.2016,,,Objednávka lůžkovin,0
+357,"Centrum sociálních služeb Tachov, příspěvková organizace",413725,377805,21.10.2016,"70 325,00 CZK","85 093,00 CZK",Osobní ochranné pracovní prostředky,0
+358,"Domov seniorů POHODA Chválkovice, příspěvková organizace",209349,75004372,01.09.2016,,,dodávky hygienických prostředků,0
+359,"Domov seniorů POHODA Chválkovice, příspěvková organizace",209361,75004372,01.09.2016,,,dodávka prádla pro klienty zařízení,0
+360,"Domov seniorů POHODA Chválkovice, příspěvková organizace",209353,75004372,01.09.2016,,,dodávky ochranných pracovních pomůcek,0
