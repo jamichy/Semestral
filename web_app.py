@@ -10,7 +10,7 @@ import os
 import streamlit as st
 import pandas as pd
 #import plotly.express as px
-from registr_scraping import vytvor_adresar
+#from registr_scraping import vytvor_adresar
 
 
 def multiply_czk_amount(amount_text, multiplier):
@@ -57,7 +57,7 @@ if __name__ == "__main__":
         dodavatel_file_name = option
         current_directory = os.getcwd()
         tabulky_path = os.path.join(current_directory,"stažené_tabulky")
-        vytvor_adresar(tabulky_path)
+        #vytvor_adresar(tabulky_path)
 
         tabulky_path = os.path.join(tabulky_path,"Data_" + dodavatel_file_name + ".csv")
         df = pd.read_csv(tabulky_path)
@@ -127,7 +127,7 @@ if __name__ == "__main__":
             na odkaz dané smlouvy.")
     current_directory = os.getcwd()
     tabulky_path = os.path.join(current_directory,"stažené_tabulky")
-    vytvor_adresar(tabulky_path)
+    #vytvor_adresar(tabulky_path)
 
     tabulky_path = os.path.join(tabulky_path,"Data_vsechny.csv")
 
