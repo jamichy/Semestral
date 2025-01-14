@@ -1,0 +1,11 @@
+
+{
+  "zboží": [
+    {
+      "název": "kalhoty",
+      "množství": 1,
+      "cena bez DPH": null,
+      "cena s dph": null
+    }
+  ]
+}
