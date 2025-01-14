@@ -1,0 +1,36 @@
+Objednávka číslo: NOSZM20010742                            Datum: 22.10.20
+=======================================================================================================
+Odběratel: Nemocnice Na Homolce
+           Roentgenova 2
+           Praha 5
+           150 30
+
+Bankovní spojení: ČNB                           IČO: 00023884
+Číslo účtu: 000000-0017734051/0710              DIČ: CZ00023884
+
+Dodavatel: Zdeněk Staněk
+           Hradišťská 2480
+           Písek
+           39701
+
+Příjemce:  Hlavní sklad SZM
+           2. patro - sklad SZM
+           Roentgenova 2
+           Praha 5
+           15030
+=======================================================================================================
+Nemocnice Na Homolce tímto u Dodavatele objednává následující zboží, které Nemocnice Na Homolce aktuálně potřebuje a toto zboží je předmětem připravované veřejné zakázky.
+
+Název zboží                                                      Množství MJ  Cena s DPH/MJ      Částka
+-------------------------------------------------------------------------------------------------------
+Zdeněk Staněk Plášť jednorázový bílý                                 8 000 KS         90,75   726000,00
+                                                                         0             0,00        0,00
+Prosíme opět průběžně dodávat.                                           0             0,00        0,00
+
+Celkem bez DPH                                                   600000,00
+Celkem s DPH                                                     726000,00
+-------------------------------------------------------------------------------------------------------
+Na faktuře uvádějte prosím vždy číslo naší objednávky a kódy VZP
+Děkujeme.
+
+Tato objednávka byla akceptována dodavatelem.

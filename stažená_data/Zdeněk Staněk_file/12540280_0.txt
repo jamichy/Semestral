@@ -1,0 +1,36 @@
+Objednávka èíslo: NOSZM20007531                            Datum: 24.07.20
+=======================================================================================================
+Odbìratel: Nemocnice Na Homolce
+           Roentgenova 2
+           Praha 5
+           150 30
+
+Bankovní spojení: ÈNB                           IÈO: 00023884
+Èíslo úètu: 000000-0017734051/0710              DIÈ: CZ00023884
+
+Dodavatel: Zdenìk Stanìk
+           Hradišská 2480
+           Písek
+           39701
+
+Pøíjemce:  Hlavní sklad SZM
+           2. patro - sklad SZM
+           Roentgenova 2
+           Praha 5
+           15030
+=======================================================================================================
+Nemocnice Na Homolce tímto u Dodavatele objednává následující zboí, které Nemocnice Na Homolce aktuálnì potøebuje a toto zboí je pøedmìtem pøipravované veøejné zakázky.
+
+Název zboí                                                      Mnoství MJ  Cena s DPH/MJ      Èástka
+-------------------------------------------------------------------------------------------------------
+Zdenìk Stanìk Pláš jednorázovı bílı                                 8 000 KS         90,75   726000,00
+                                                                         0             0,00        0,00
+Prosíme o domluvu na prùbìné dodání.                                    0             0,00        0,00
+
+Celkem bez DPH                                                   600000,00
+Celkem s DPH                                                     726000,00
+-------------------------------------------------------------------------------------------------------
+Na faktuøe uvádìjte prosím vdy èíslo naší objednávky a kódy VZP
+Dìkujeme.
+
+Tato objednávka byla akceptována dodavatelem.
