@@ -40,83 +40,6 @@ if __name__ == "__main__":
     st.title("Pomocník pro obchodní zástupce")
 
     st.write("Toto je nástroj, který čerpá data z registru smluv a usnadňuje tvou práci.")
-    """
-    # Podnadpis
-    st.subheader("Chcete se kouknout, jak se dařilo ostatním firmám v průběhu let?")
-    option = st.selectbox(
-        "Kterou firmu chcete prozkoumat?",
-        ("", "Apos Brno", "Sucom production", "Sc professional", "Lutema care",\
-         "Ramret", "Galtop", "OTEX, chráněná dílna s.r.o.", "Jaromír Kaštyl", \
-        "Františka Kaštylová", "družstvo TEXman", "V & V Servis CML spol. s r.o.", \
-            "Zdeněk Staněk", "Polášek Holešov s.r.o."),
-        )
-    if option in ["Apos Brno", "Sucom production", "Sc professional", \
-            "Lutema care", "Ramret", "Galtop", "OTEX, chráněná dílna s.r.o.", \
-            "Jaromír Kaštyl", "Františka Kaštylová", "družstvo TEXman", \
-            "V & V Servis CML spol. s r.o.", "Zdeněk Staněk", "Polášek Holešov s.r.o."]:    
-        dodavatel_file_name = option
-        current_directory = os.getcwd()
-        tabulky_path = os.path.join(current_directory,"stažené_tabulky")
-        #vytvor_adresar(tabulky_path)
-
-        tabulky_path = os.path.join(tabulky_path,"Data_" + dodavatel_file_name + ".csv")
-        df = pd.read_csv(tabulky_path)
-        df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
-
-        Datum_uzavření_smlouvy = df['Datum uzavření smlouvy'].to_list()
-        Cena_bez_dph = df['Cena_bez_dph'].to_list()
-        Cena_s_dph = df['Cena_s_dph'].to_list()
-        for i in range(len(Datum_uzavření_smlouvy)):
-            if isinstance(Cena_bez_dph[i], str):
-                Cena_s_dph[i] = multiply_czk_amount(Cena_bez_dph[i], 1.21)
-            elif isinstance(Cena_s_dph[i], str):
-                Cena_s_dph[i] = change_currency_format(Cena_s_dph[i])
-            else:
-                Cena_s_dph[i] = 0
-        # DataFrame
-        data_to_vis = pd.DataFrame({'Datum': Datum_uzavření_smlouvy, 'Cena_s_dph': Cena_s_dph})
-        data_to_vis['Datum'] = pd.to_datetime(data_to_vis['Datum'], format="%d.%m.%Y")
-        data_to_vis = data_to_vis.groupby('Datum')['Cena_s_dph'].sum().reset_index()
-
-        # Titulek aplikace
-        st.title("Interaktivní graf finanční výkonnosti")
-
-        # Popis
-        st.write("Tento graf ukazuje finanční výkonnost v průběhu doby.")
-
-        # Boční panel - výběr dat
-        st.sidebar.header("Filtr dat")
-        start_date = st.sidebar.date_input("Začátek", data_to_vis['Datum'].min())
-        end_date = st.sidebar.date_input("Konec", data_to_vis['Datum'].max())
-
-        # Filtrování podle zadaných dat
-        filtered_df = data_to_vis[(data_to_vis['Datum'] >= pd.to_datetime(start_date)) \
-                        & (data_to_vis['Datum'] <= pd.to_datetime(end_date))]
-
-        # Interaktivní graf pomocí Plotly
-        fig = px.line(
-            filtered_df,
-            x='Datum',
-            y='Cena_s_dph',
-            labels={"Datum": "Datum", "Cena_s_dph": "Částka v CZK"},
-            title="Objem uzavřených smluv v čase",
-            markers=True
-            )
-
-        # Přidání hover efektu
-        fig.update_traces(hovertemplate="<b>%{y:,.2f} CZK</b>")
-
-        # Zobrazení interaktivního grafu
-        st.plotly_chart(fig)
-
-        celk_castka = format_float_to_czk(filtered_df["Cena_s_dph"].sum())
-
-        st.write("Celkový objem uzavřených smluv ve filtrovaném období včetně \
-                 DPH je: " + celk_castka)
-    """
-    st.write(" ")
-    st.write(" ")
-    st.write(" ")
     st.write(" ")
     st.write(" ")
     st.write(" ")
@@ -153,6 +76,8 @@ if __name__ == "__main__":
         st.write(f"Seznam zakázek pro odběratele: {selected_customer}")
         # Iterace přes jednotlivé zakázky
         for contract_id in contracts:
+            st.write(" ")
+            st.write(" ")
             contract_data = customer_data[customer_data['ID'] == contract_id]
             supplier = contract_data['Dodavatel'].iloc[0]
             contract_date = contract_data['Datum uzavření smlouvy'].iloc[0]
